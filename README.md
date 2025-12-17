@@ -33,7 +33,7 @@ For inquiries, purchases, or support, please reach out to:
       <br>
     </td> 
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Shozon-Roy/ScriptStore/refs/heads/main/11-Dec-2025-06-27-AM-4979.jpg" width="200" alt="Image 3 Description"/>
+      <img src="#" width="200" alt="Image 3 Description"/>
       <br>
     </td>
   </tr>
